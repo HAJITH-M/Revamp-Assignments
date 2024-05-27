@@ -8,7 +8,7 @@
    - Void elements in HTML are those that don't have a closing tag. They self-close in the HTML markup. Example: <img>, <br>, <input>.
 
 4. What is Different Element and Attributes ?
-   - Elements in HTML are the building blocks of a webpage. Attributes provide additional information about an element and are added within the opening tag. Example: <img src="image.jpg" alt="description">, where "src" and "alt" are attributes.
+   - Elements in HTML are the building blocks of a webpage. Attributes provide additional information about an element and are added within the opening tag. where "src" and "alt" are attributes.
 
 5. What is Html Entities and Why is it need in HTML ?
    - HTML entities are special characters used to display reserved characters in HTML. They are needed to ensure these characters are rendered correctly and do not conflict with HTML syntax. For example, "&lt;" represents the less-than sign ("<").
